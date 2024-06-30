@@ -1,6 +1,6 @@
 /*
 1. Write a program to convert kg to g. (Input 56kg print in grams)
- */
+*/
 
 object ConvertKgToG {
 
